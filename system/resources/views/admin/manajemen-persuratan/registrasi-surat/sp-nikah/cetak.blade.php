@@ -68,7 +68,7 @@
 				<tr></tr>
 				
 				<tr>
-					<td colspan="3">Demikian surat keterangan domisili ini kami buat sebagaimana perlunya semoga dapat digunakan sebagaimana mestinya.</td>
+					{{$template->isi}}
 				</tr>
 			</table>
 				<div id="ttd">
@@ -83,7 +83,6 @@
 
 				</u></b>
 			</div>
-
 
 		</div>
 
